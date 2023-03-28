@@ -1,1 +1,1 @@
-https://ThePenchekryak.github.io/rsschool-cv/cv
+https://ThePenchekryak.github.io/rsschool-cv/
