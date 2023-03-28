@@ -4,10 +4,10 @@
 
 ## Contacts:
 
-**Location:** Kyiv, Ukraine
-**Email:** sfairat.rahl@gmail.com
-**Telegram:** [@Sfa1rat](https://t.me/Sfa1rat)
-**GitHub:** [ThePenchekryak](https://github.com/ThePenchekryak)
+**Location:** Kyiv, Ukraine<br>
+**Email:** sfairat.rahl@gmail.com<br>
+**Telegram:** [@Sfa1rat](https://t.me/Sfa1rat)<br>
+**GitHub:** [ThePenchekryak](https://github.com/ThePenchekryak)<br>
 
 ---
 
